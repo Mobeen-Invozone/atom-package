@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "atom-package:toggle"
   },
-  "repository": "https://github.com/atom/atom-package",
+  "repository": "https://github.com/Mobeen-Invozone/atom-package",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
